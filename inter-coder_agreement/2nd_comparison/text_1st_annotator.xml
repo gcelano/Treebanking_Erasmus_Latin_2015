@@ -1,0 +1,138 @@
+<treebank xml:lang='lat' version='1.5' direction='ltr' format='aldt'>
+  <date>Mon Mar 16 16:03:40 +0000 2015</date>
+  <comment>This file has been created by Giuseppe G. A. Celano at Leipzig University.
+The text is Fabulae Aesopiae, Phaedrus, Augusti libertus, ed. L. Mueller, Leipzig, B. G. Teubner, 1876
+The original text comes from PerseusDL (after deleting character entity references):
+https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master&#x2F;CTS_XML_TEI&#x2F;perseus&#x2F;latinLit&#x2F;phi0975&#x2F;phi001&#x2F;phi0975.phi001.perseus-lat1.xml</comment>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+  </annotator>
+  <sentence id='7' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Tunc' lemma='tunc' postag='d--------' relation='AuxY' ref='1:1' head='8'/>
+    <word id='2' form='fauce' lemma='fauces' postag='n-s---fb-' relation='ADV' ref='1:1' head='5'/>
+    <word id='3' form='improba' lemma='improbus' postag='a-s---fb-' relation='ATR' ref='1:1' head='2'/>
+    <word id='4' form='Latro' lemma='latro2' postag='n-s---mn-' relation='SBJ' ref='1:1' head='8'/>
+    <word id='5' form='incitatus' lemma='incito' postag='v-srppmn-' relation='ADV' ref='1:1' head='8'/>
+    <word id='6' form='iurgii' lemma='jurgium' postag='n-s---ng-' relation='ATR' ref='1:1' head='7'/>
+    <word id='7' form='causam' lemma='causa' postag='n-s---fa-' relation='OBJ' ref='1:1' head='8'/>
+    <word id='8' form='intulit' lemma='infero' postag='v3sria---' relation='PRED' ref='1:1' head='0'/>
+    <word id='9' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='8' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Cur' lemma='cur' postag='d--------' relation='AuxY' ref='1:1' head='6'/>
+    <word id='2' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='3'/>
+    <word id='3' form='inquit' lemma='inquam' postag='v3spia---' relation='ExD' ref='1:1' head='6'/>
+    <word id='4' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='3'/>
+    <word id='5' form='turbulentam' lemma='turbulentus' postag='a-s---fa-' relation='OCOMP' ref='1:1' head='6'/>
+    <word id='6' form='fecisti' lemma='facio' postag='v2sria---' relation='PRED' ref='1:1' head='0'/>
+    <word id='7' form='mihi' lemma='ego' postag='p-s---md-' relation='OBJ' ref='1:1' head='6'/>
+    <word id='8' form='Aquam' lemma='aqua' postag='n-s---fa-' relation='OBJ' ref='1:1' head='6'/>
+    <word id='9' form='bibenti' lemma='bibo1' postag='v-spp-md-' relation='ATR' ref='1:1' head='7'/>
+    <word id='10' form='?' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='9' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Laniger' lemma='laniger' postag='a-s---mnp' relation='SBJ' ref='1:1' head='0'/>
+    <word id='2' form='contra' lemma='contra' postag='d--------' relation='ADV' ref='1:1' head='0'/>
+    <word id='3' form='timens' lemma='timeo' postag='v-spp-mn-' relation='ATR' ref='1:1' head='1'/>
+    <word id='4' form=':' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='10' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Qui' lemma='qui2' postag='d--------' relation='AuxY' ref='1:1' head='2'/>
+    <word id='2' form='possum' lemma='possum' postag='v1spia---' relation='PRED' ref='1:1' head='0'/>
+    <word id='3' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='4'/>
+    <word id='4' form='quaeso' lemma='quaeso' postag='v1spia---' relation='ExD' ref='1:1' head='2'/>
+    <word id='5' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='4'/>
+    <word id='6' form='facere' lemma='facio' postag='v--pna---' relation='OBJ' ref='1:1' head='2'/>
+    <word id='7' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='9'/>
+    <word id='8' form='quod' lemma='qui1' postag='p-s---na-' relation='OBJ' ref='1:1' head='9'/>
+    <word id='9' form='quereris' lemma='queror' postag='v2spid---' relation='OBJ' ref='1:1' head='6'/>
+    <word id='10' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='9'/>
+    <word id='11' form='lupe' lemma='lupus1' postag='n-s---mv-' relation='ExD' ref='1:1' head='2'/>
+    <word id='12' form='?' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='11' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='A' lemma='ab' postag='r--------' relation='AuxP' ref='1:1' head='3'/>
+    <word id='2' form='te' lemma='tu' postag='p-s---mb-' relation='ADV' ref='1:1' head='1'/>
+    <word id='3' form='decurrit' lemma='decurro' postag='v3spia---' relation='PRED' ref='1:1' head='0'/>
+    <word id='4' form='ad' lemma='ad' postag='r--------' relation='AuxP' ref='1:1' head='3'/>
+    <word id='5' form='meos' lemma='meus' postag='a-p---ma-' relation='ATR' ref='1:1' head='6'/>
+    <word id='6' form='haustus' lemma='haustus2' postag='n-p---ma-' relation='OBJ' ref='1:1' head='4'/>
+    <word id='7' form='liquor' lemma='liquor2' postag='n-s---mn-' relation='SBJ' ref='1:1' head='3'/>
+    <word id='8' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='12' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Repulsus' lemma='repello' postag='v-srppmn-' relation='ADV' ref='1:1' head='0'/>
+    <word id='2' form='ille' lemma='ille' postag='p-s---mn-' relation='SBJ' ref='1:1' head='0'/>
+    <word id='3' form='veritatis' lemma='veritas' postag='n-s---fg-' relation='ATR' ref='1:1' head='4'/>
+    <word id='4' form='viribus' lemma='vis' postag='n-p---fb-' relation='ADV' ref='1:1' head='1'/>
+    <word id='5' form=':' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='13' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Ante' lemma='ante' postag='r--------' relation='AuxP' ref='1:1' head='9'/>
+    <word id='2' form='hos' lemma='hic' postag='p-p---ma-' relation='ATR' ref='1:1' head='3'/>
+    <word id='3' form='sex' lemma='sex' postag='m--------' relation='ATR' ref='1:1' head='4'/>
+    <word id='4' form='menses' lemma='mensis' postag='n-p---ma-' relation='ADV' ref='1:1' head='1'/>
+    <word id='5' form='male' lemma='malus1' postag='d--------' relation='OBJ' ref='1:1' head='9'/>
+    <word id='6' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='7'/>
+    <word id='7' form='ait' lemma='aio' postag='v3spia---' relation='ExD' ref='1:1' head='9'/>
+    <word id='8' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='7'/>
+    <word id='9' form='dixisti' lemma='dico2' postag='v2sria---' relation='PRED' ref='1:1' head='0'/>
+    <word id='10' form='mihi' lemma='ego' postag='p-s---md-' relation='OBJ' ref='1:1' head='9'/>
+    <word id='11' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='14' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Respondit' lemma='respondeo' postag='v3sria---' relation='PRED' ref='1:1' head='0'/>
+    <word id='2' form='agnus' lemma='agnus' postag='n-s---mn-' relation='SBJ' ref='1:1' head='1'/>
+    <word id='3' form=':' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='15' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Equidem' lemma='equidem' postag='d--------' relation='AuxY' ref='1:1' head='2'/>
+    <word id='2' form='natus' lemma='nascor' postag='v-srppmn_' relation='PRED' ref='1:1' head='0'/>
+    <word id='3' form='non' lemma='non' postag='d--------' relation='AuxZ' ref='1:1' head='2'/>
+    <word id='4' form='eram' lemma='sum1' postag='v1siia---' relation='AuxV' ref='1:1' head='2'/>
+    <word id='5' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='16' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Pater' lemma='pater' postag='n-s---mn-' relation='SBJ' ref='1:1' head='9'/>
+    <word id='2' form='hercle' lemma='Hercules' postag='e--------' relation='AuxY' ref='1:1' head='9'/>
+    <word id='3' form='tuus' lemma='tuus' postag='a-s---mn-' relation='ATR' ref='1:1' head='1'/>
+    <word id='4' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='6'/>
+    <word id='5' form='ille' lemma='ille' postag='p-s---mn-' relation='SBJ' ref='1:1' head='6'/>
+    <word id='6' form='inquit' lemma='inquam' postag='v3spia---' relation='ExD' ref='1:1' head='9'/>
+    <word id='7' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='6'/>
+    <word id='8' form='male' lemma='malus1' postag='d--------' relation='OBJ' ref='1:1' head='9'/>
+    <word id='9' form='dixit' lemma='dico2' postag='v3sria---' relation='PRED' ref='1:1' head='0'/>
+    <word id='10' form='mihi' lemma='ego' postag='p-s---md-' relation='OBJ' ref='1:1' head='9'/>
+    <word id='11' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='9'/>
+  </sentence>
+  <sentence id='17' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Atque' lemma='atque' postag='c--------' relation='COORD' ref='1:1' head='0'/>
+    <word id='2' form='ita' lemma='ita' postag='d--------' relation='AuxY' ref='1:1' head='4'/>
+    <word id='3' form='correptum' lemma='corripio' postag='v-srppma-' relation='OBJ' ref='1:1' head='4'/>
+    <word id='4' form='lacerat' lemma='lacero' postag='v3spia---' relation='PRED_CO' ref='1:1' head='1'/>
+    <word id='5' form='iniusta' lemma='injustus' postag='a-s---fb-' relation='ATR' ref='1:1' head='6'/>
+    <word id='6' form='nece' lemma='nex' postag='n-s---fb-' relation='ADV' ref='1:1' head='4'/>
+    <word id='7' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+  <sentence id='18' document_id='' subdoc='1:1' span=''>
+    <word id='1' form='Haec' lemma='hic' postag='p-s---fn-' relation='ATR' ref='1:1' head='7'/>
+    <word id='2' form='propter' lemma='propter' postag='r--------' relation='AuxP' ref='1:1' head='4'/>
+    <word id='3' form='illos' lemma='ille' postag='p-p---ma-' relation='ATR' ref='1:1' head='6'/>
+    <word id='4' form='scripta' lemma='scribo' postag='v-srppfn-' relation='PRED' ref='1:1' head='0'/>
+    <word id='5' form='est' lemma='sum1' postag='v3spia---' relation='AuxV' ref='1:1' head='4'/>
+    <word id='6' form='homines' lemma='homo' postag='n-p---ma-' relation='OBJ' ref='1:1' head='2'/>
+    <word id='7' form='fabula' lemma='fabula1' postag='n-s---fn-' relation='SBJ' ref='1:1' head='4'/>
+    <word id='8' form=',' lemma='' postag='' relation='AuxX' ref='1:1' head='9'/>
+    <word id='9' form='Qui' lemma='qui1' postag='p-p---mn-' relation='SBJ' ref='1:1' head='13'/>
+    <word id='10' form='fictis' lemma='fingo' postag='v-prppfb-' relation='ATR' ref='1:1' head='11'/>
+    <word id='11' form='causis' lemma='causa' postag='n-p---fb-' relation='ADV' ref='1:1' head='13'/>
+    <word id='12' form='innocentes' lemma='innocens' postag='a-p---ma-' relation='OBJ' ref='1:1' head='13'/>
+    <word id='13' form='opprimunt' lemma='opprimo' postag='v3ppia---' relation='ATR' ref='1:1' head='6'/>
+    <word id='14' form='.' lemma='' postag='' relation='AuxK' ref='1:1' head='0'/>
+  </sentence>
+</treebank>
