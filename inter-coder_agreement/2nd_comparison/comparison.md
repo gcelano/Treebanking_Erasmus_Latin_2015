@@ -50,9 +50,9 @@
               <td>1</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
               </td>
               <td>d--------</td>
               <td>p-p---mn-</td>
@@ -61,9 +61,9 @@
               <td>2</td>
               <td>
                 <p>
-                  <b>1st </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">male</a>  ait dixisti mihi</p>
+                  <b>1st </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">male</a>  ait dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">male</a>  ait dixisti mihi</p>
+                  <b>2nd </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">male</a>  ait dixisti mihi</p>
               </td>
               <td>d--------</td>
               <td>n-s---mv-</td>
@@ -72,9 +72,9 @@
               <td>3</td>
               <td>
                 <p>
-                  <b>1st </b>Ante hos sex menses male  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">ait</a>  dixisti mihi</p>
+                  <b>1st </b>Ante hos sex menses male  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">ait</a>  dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante hos sex menses male  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">ait</a>  dixisti mihi</p>
+                  <b>2nd </b>Ante hos sex menses male  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">ait</a>  dixisti mihi</p>
               </td>
               <td>v3spia---</td>
               <td>v3sria---</td>
@@ -83,9 +83,9 @@
               <td>4</td>
               <td>
                 <p>
-                  <b>1st </b>Equidem  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=9258" style="" target="_blank">natus</a>  non eram</p>
+                  <b>1st </b>Equidem  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11725" style="" target="_blank">natus</a>  non eram</p>
                 <p>
-                  <b>2nd </b>Equidem  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=10496" style="" target="_blank">natus</a>  non eram</p>
+                  <b>2nd </b>Equidem  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11726" style="" target="_blank">natus</a>  non eram</p>
               </td>
               <td>v-srppmn_</td>
               <td>n-s---mn-</td>
@@ -94,9 +94,9 @@
               <td>5</td>
               <td>
                 <p>
-                  <b>1st </b>Equidem natus non  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=9258" style="" target="_blank">eram</a> </p>
+                  <b>1st </b>Equidem natus non  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11725" style="" target="_blank">eram</a> </p>
                 <p>
-                  <b>2nd </b>Equidem natus non  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=10496" style="" target="_blank">eram</a> </p>
+                  <b>2nd </b>Equidem natus non  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11726" style="" target="_blank">eram</a> </p>
               </td>
               <td>v1siia---</td>
               <td>n-s---fa-</td>
@@ -105,9 +105,9 @@
               <td>6</td>
               <td>
                 <p>
-                  <b>1st </b>Pater hercle  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=9258" style="" target="_blank">tuus</a>  ille inquit male dixit mihi</p>
+                  <b>1st </b>Pater hercle  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11725" style="" target="_blank">tuus</a>  ille inquit male dixit mihi</p>
                 <p>
-                  <b>2nd </b>Pater hercle  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=10496" style="" target="_blank">tuus</a>  ille inquit male dixit mihi</p>
+                  <b>2nd </b>Pater hercle  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11726" style="" target="_blank">tuus</a>  ille inquit male dixit mihi</p>
               </td>
               <td>a-s---mn-</td>
               <td>p-s---mn-</td>
@@ -116,9 +116,9 @@
               <td>7</td>
               <td>
                 <p>
-                  <b>1st </b>Pater hercle tuus ille  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=9258" style="" target="_blank">inquit</a>  male dixit mihi</p>
+                  <b>1st </b>Pater hercle tuus ille  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11725" style="" target="_blank">inquit</a>  male dixit mihi</p>
                 <p>
-                  <b>2nd </b>Pater hercle tuus ille  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=10496" style="" target="_blank">inquit</a>  male dixit mihi</p>
+                  <b>2nd </b>Pater hercle tuus ille  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11726" style="" target="_blank">inquit</a>  male dixit mihi</p>
               </td>
               <td>v3spia---</td>
               <td>v3sria---</td>
@@ -127,9 +127,9 @@
               <td>8</td>
               <td>
                 <p>
-                  <b>1st </b>Haec  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">propter</a>  illos scripta est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>1st </b>Haec  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">propter</a>  illos scripta est homines fabula Qui fictis causis innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">propter</a>  illos scripta est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>2nd </b>Haec  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">propter</a>  illos scripta est homines fabula Qui fictis causis innocentes opprimunt</p>
               </td>
               <td>r--------</td>
               <td>d--------</td>
@@ -138,9 +138,9 @@
               <td>9</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>1st </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>2nd </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
               </td>
               <td>v-srppfn-</td>
               <td>v-srppfb-</td>
@@ -149,9 +149,9 @@
               <td>10</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos scripta est homines  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">fabula</a>  Qui fictis causis innocentes opprimunt</p>
+                  <b>1st </b>Haec propter illos scripta est homines  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">fabula</a>  Qui fictis causis innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec propter illos scripta est homines  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">fabula</a>  Qui fictis causis innocentes opprimunt</p>
+                  <b>2nd </b>Haec propter illos scripta est homines  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">fabula</a>  Qui fictis causis innocentes opprimunt</p>
               </td>
               <td>n-s---fn-</td>
               <td>n-s---fb-</td>
@@ -201,9 +201,9 @@
               <td>1</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=9258" style="" target="_blank">Laniger</a>  contra timens</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11725" style="" target="_blank">Laniger</a>  contra timens</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=10496" style="" target="_blank">Laniger</a>  contra timens</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11726" style="" target="_blank">Laniger</a>  contra timens</p>
               </td>
               <td>0</td>
               <td>5</td>
@@ -212,9 +212,9 @@
               <td>2</td>
               <td>
                 <p>
-                  <b>1st </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=9258" style="" target="_blank">contra</a>  timens</p>
+                  <b>1st </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11725" style="" target="_blank">contra</a>  timens</p>
                 <p>
-                  <b>2nd </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=10496" style="" target="_blank">contra</a>  timens</p>
+                  <b>2nd </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11726" style="" target="_blank">contra</a>  timens</p>
               </td>
               <td>0</td>
               <td>5</td>
@@ -223,9 +223,9 @@
               <td>3</td>
               <td>
                 <p>
-                  <b>1st </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">quod</a>  quereris lupe</p>
+                  <b>1st </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">quod</a>  quereris lupe</p>
                 <p>
-                  <b>2nd </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">quod</a>  quereris lupe</p>
+                  <b>2nd </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">quod</a>  quereris lupe</p>
               </td>
               <td>9</td>
               <td>2</td>
@@ -234,9 +234,9 @@
               <td>4</td>
               <td>
                 <p>
-                  <b>1st </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">quereris</a>  lupe</p>
+                  <b>1st </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">quereris</a>  lupe</p>
                 <p>
-                  <b>2nd </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">quereris</a>  lupe</p>
+                  <b>2nd </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">quereris</a>  lupe</p>
               </td>
               <td>6</td>
               <td>8</td>
@@ -245,9 +245,9 @@
               <td>5</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
               </td>
               <td>0</td>
               <td>2</td>
@@ -256,9 +256,9 @@
               <td>6</td>
               <td>
                 <p>
-                  <b>1st </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">ille</a>  veritatis viribus</p>
+                  <b>1st </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">ille</a>  veritatis viribus</p>
                 <p>
-                  <b>2nd </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">ille</a>  veritatis viribus</p>
+                  <b>2nd </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">ille</a>  veritatis viribus</p>
               </td>
               <td>0</td>
               <td>6</td>
@@ -267,9 +267,9 @@
               <td>7</td>
               <td>
                 <p>
-                  <b>1st </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">viribus</a> </p>
+                  <b>1st </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">viribus</a> </p>
                 <p>
-                  <b>2nd </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">viribus</a> </p>
+                  <b>2nd </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">viribus</a> </p>
               </td>
               <td>1</td>
               <td>6</td>
@@ -278,9 +278,9 @@
               <td>8</td>
               <td>
                 <p>
-                  <b>1st </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
+                  <b>1st </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
+                  <b>2nd </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
               </td>
               <td>3</td>
               <td>9</td>
@@ -289,9 +289,9 @@
               <td>9</td>
               <td>
                 <p>
-                  <b>1st </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=9258" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
+                  <b>1st </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=11725" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
                 <p>
-                  <b>2nd </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=10496" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
+                  <b>2nd </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=11726" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
               </td>
               <td>4</td>
               <td>1</td>
@@ -300,9 +300,9 @@
               <td>10</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">opprimunt</a> </p>
+                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">opprimunt</a> </p>
                 <p>
-                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">opprimunt</a> </p>
+                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">opprimunt</a> </p>
               </td>
               <td>6</td>
               <td>4</td>
@@ -352,9 +352,9 @@
               <td>1</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=9258" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=11725" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=10496" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=11726" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
               </td>
               <td>AuxY6</td>
               <td>ADV6</td>
@@ -363,9 +363,9 @@
               <td>2</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=9258" style="" target="_blank">Laniger</a>  contra timens</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11725" style="" target="_blank">Laniger</a>  contra timens</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=10496" style="" target="_blank">Laniger</a>  contra timens</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11726" style="" target="_blank">Laniger</a>  contra timens</p>
               </td>
               <td>SBJ0</td>
               <td>SBJ5</td>
@@ -374,9 +374,9 @@
               <td>3</td>
               <td>
                 <p>
-                  <b>1st </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=9258" style="" target="_blank">contra</a>  timens</p>
+                  <b>1st </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11725" style="" target="_blank">contra</a>  timens</p>
                 <p>
-                  <b>2nd </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=10496" style="" target="_blank">contra</a>  timens</p>
+                  <b>2nd </b>Laniger  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=9&amp;doc=11726" style="" target="_blank">contra</a>  timens</p>
               </td>
               <td>ADV0</td>
               <td>ADV5</td>
@@ -385,9 +385,9 @@
               <td>4</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
               </td>
               <td>AuxY2</td>
               <td>ADV2</td>
@@ -396,9 +396,9 @@
               <td>5</td>
               <td>
                 <p>
-                  <b>1st </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">quod</a>  quereris lupe</p>
+                  <b>1st </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">quod</a>  quereris lupe</p>
                 <p>
-                  <b>2nd </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">quod</a>  quereris lupe</p>
+                  <b>2nd </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">quod</a>  quereris lupe</p>
               </td>
               <td>OBJ9</td>
               <td>AuxC2</td>
@@ -407,9 +407,9 @@
               <td>6</td>
               <td>
                 <p>
-                  <b>1st </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">quereris</a>  lupe</p>
+                  <b>1st </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">quereris</a>  lupe</p>
                 <p>
-                  <b>2nd </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">quereris</a>  lupe</p>
+                  <b>2nd </b>Qui possum quaeso facere quod  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">quereris</a>  lupe</p>
               </td>
               <td>OBJ6</td>
               <td>OBJ8</td>
@@ -418,9 +418,9 @@
               <td>7</td>
               <td>
                 <p>
-                  <b>1st </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=9258" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
+                  <b>1st </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=11725" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
                 <p>
-                  <b>2nd </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=10496" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
+                  <b>2nd </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=11726" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
               </td>
               <td>ADV1</td>
               <td>OBJ1</td>
@@ -429,9 +429,9 @@
               <td>8</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
               </td>
               <td>ADV0</td>
               <td>ATV2</td>
@@ -440,9 +440,9 @@
               <td>9</td>
               <td>
                 <p>
-                  <b>1st </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">ille</a>  veritatis viribus</p>
+                  <b>1st </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">ille</a>  veritatis viribus</p>
                 <p>
-                  <b>2nd </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">ille</a>  veritatis viribus</p>
+                  <b>2nd </b>Repulsus  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">ille</a>  veritatis viribus</p>
               </td>
               <td>SBJ0</td>
               <td>SBJ6</td>
@@ -451,9 +451,9 @@
               <td>10</td>
               <td>
                 <p>
-                  <b>1st </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">viribus</a> </p>
+                  <b>1st </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">viribus</a> </p>
                 <p>
-                  <b>2nd </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">viribus</a> </p>
+                  <b>2nd </b>Repulsus ille veritatis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">viribus</a> </p>
               </td>
               <td>ADV1</td>
               <td>ADV6</td>
@@ -462,9 +462,9 @@
               <td>11</td>
               <td>
                 <p>
-                  <b>1st </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
+                  <b>1st </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
+                  <b>2nd </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
               </td>
               <td>ATR3</td>
               <td>OBJ9</td>
@@ -473,9 +473,9 @@
               <td>12</td>
               <td>
                 <p>
-                  <b>1st </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">male</a>  ait dixisti mihi</p>
+                  <b>1st </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">male</a>  ait dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">male</a>  ait dixisti mihi</p>
+                  <b>2nd </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">male</a>  ait dixisti mihi</p>
               </td>
               <td>OBJ9</td>
               <td>ExD9</td>
@@ -484,9 +484,9 @@
               <td>13</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=9258" style="" target="_blank">Equidem</a>  natus non eram</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11725" style="" target="_blank">Equidem</a>  natus non eram</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=10496" style="" target="_blank">Equidem</a>  natus non eram</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11726" style="" target="_blank">Equidem</a>  natus non eram</p>
               </td>
               <td>AuxY2</td>
               <td>ADV2</td>
@@ -495,9 +495,9 @@
               <td>14</td>
               <td>
                 <p>
-                  <b>1st </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=9258" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
+                  <b>1st </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11725" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
                 <p>
-                  <b>2nd </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=10496" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
+                  <b>2nd </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11726" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
               </td>
               <td>AuxY9</td>
               <td>AuxZ9</td>
@@ -506,9 +506,9 @@
               <td>15</td>
               <td>
                 <p>
-                  <b>1st </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=9258" style="" target="_blank">male</a>  dixit mihi</p>
+                  <b>1st </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11725" style="" target="_blank">male</a>  dixit mihi</p>
                 <p>
-                  <b>2nd </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=10496" style="" target="_blank">male</a>  dixit mihi</p>
+                  <b>2nd </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11726" style="" target="_blank">male</a>  dixit mihi</p>
               </td>
               <td>OBJ9</td>
               <td>ADV9</td>
@@ -517,9 +517,9 @@
               <td>16</td>
               <td>
                 <p>
-                  <b>1st </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=9258" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
+                  <b>1st </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=11725" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
                 <p>
-                  <b>2nd </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=10496" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
+                  <b>2nd </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=11726" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
               </td>
               <td>AuxY4</td>
               <td>ADV1</td>
@@ -528,9 +528,9 @@
               <td>17</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>1st </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>2nd </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
               </td>
               <td>PRED0</td>
               <td>0</td>
@@ -539,9 +539,9 @@
               <td>18</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">causis</a>  innocentes opprimunt</p>
+                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">causis</a>  innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">causis</a>  innocentes opprimunt</p>
+                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">causis</a>  innocentes opprimunt</p>
               </td>
               <td>ADV13</td>
               <td>OBJ13</td>
@@ -550,9 +550,9 @@
               <td>19</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">opprimunt</a> </p>
+                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">opprimunt</a> </p>
                 <p>
-                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">opprimunt</a> </p>
+                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">opprimunt</a> </p>
               </td>
               <td>ATR6</td>
               <td>OBJ4</td>
@@ -602,9 +602,9 @@
               <td>1</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=9258" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=11725" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=10496" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=8&amp;doc=11726" style="" target="_blank">Cur</a>  inquit turbulentam fecisti mihi Aquam bibenti</p>
               </td>
               <td>AuxY</td>
               <td>ADV</td>
@@ -613,9 +613,9 @@
               <td>2</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">Qui</a>  possum quaeso facere quod quereris lupe</p>
               </td>
               <td>AuxY</td>
               <td>ADV</td>
@@ -624,9 +624,9 @@
               <td>3</td>
               <td>
                 <p>
-                  <b>1st </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=9258" style="" target="_blank">quod</a>  quereris lupe</p>
+                  <b>1st </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11725" style="" target="_blank">quod</a>  quereris lupe</p>
                 <p>
-                  <b>2nd </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=10496" style="" target="_blank">quod</a>  quereris lupe</p>
+                  <b>2nd </b>Qui possum quaeso facere  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=10&amp;doc=11726" style="" target="_blank">quod</a>  quereris lupe</p>
               </td>
               <td>OBJ</td>
               <td>AuxC</td>
@@ -635,9 +635,9 @@
               <td>4</td>
               <td>
                 <p>
-                  <b>1st </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=9258" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
+                  <b>1st </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=11725" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
                 <p>
-                  <b>2nd </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=10496" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
+                  <b>2nd </b>A  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=11&amp;doc=11726" style="" target="_blank">te</a>  decurrit ad meos haustus liquor</p>
               </td>
               <td>ADV</td>
               <td>OBJ</td>
@@ -646,9 +646,9 @@
               <td>5</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=9258" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11725" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=10496" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=12&amp;doc=11726" style="" target="_blank">Repulsus</a>  ille veritatis viribus</p>
               </td>
               <td>ADV</td>
               <td>ATV</td>
@@ -657,9 +657,9 @@
               <td>6</td>
               <td>
                 <p>
-                  <b>1st </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
+                  <b>1st </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
+                  <b>2nd </b>Ante  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">hos</a>  sex menses male ait dixisti mihi</p>
               </td>
               <td>ATR</td>
               <td>OBJ</td>
@@ -668,9 +668,9 @@
               <td>7</td>
               <td>
                 <p>
-                  <b>1st </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=9258" style="" target="_blank">male</a>  ait dixisti mihi</p>
+                  <b>1st </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11725" style="" target="_blank">male</a>  ait dixisti mihi</p>
                 <p>
-                  <b>2nd </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=10496" style="" target="_blank">male</a>  ait dixisti mihi</p>
+                  <b>2nd </b>Ante hos sex menses  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=13&amp;doc=11726" style="" target="_blank">male</a>  ait dixisti mihi</p>
               </td>
               <td>OBJ</td>
               <td>ExD</td>
@@ -679,9 +679,9 @@
               <td>8</td>
               <td>
                 <p>
-                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=9258" style="" target="_blank">Equidem</a>  natus non eram</p>
+                  <b>1st </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11725" style="" target="_blank">Equidem</a>  natus non eram</p>
                 <p>
-                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=10496" style="" target="_blank">Equidem</a>  natus non eram</p>
+                  <b>2nd </b> <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=15&amp;doc=11726" style="" target="_blank">Equidem</a>  natus non eram</p>
               </td>
               <td>AuxY</td>
               <td>ADV</td>
@@ -690,9 +690,9 @@
               <td>9</td>
               <td>
                 <p>
-                  <b>1st </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=9258" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
+                  <b>1st </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11725" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
                 <p>
-                  <b>2nd </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=10496" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
+                  <b>2nd </b>Pater  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11726" style="" target="_blank">hercle</a>  tuus ille inquit male dixit mihi</p>
               </td>
               <td>AuxY</td>
               <td>AuxZ</td>
@@ -701,9 +701,9 @@
               <td>10</td>
               <td>
                 <p>
-                  <b>1st </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=9258" style="" target="_blank">male</a>  dixit mihi</p>
+                  <b>1st </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11725" style="" target="_blank">male</a>  dixit mihi</p>
                 <p>
-                  <b>2nd </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=10496" style="" target="_blank">male</a>  dixit mihi</p>
+                  <b>2nd </b>Pater hercle tuus ille inquit  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=16&amp;doc=11726" style="" target="_blank">male</a>  dixit mihi</p>
               </td>
               <td>OBJ</td>
               <td>ADV</td>
@@ -712,9 +712,9 @@
               <td>11</td>
               <td>
                 <p>
-                  <b>1st </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=9258" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
+                  <b>1st </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=11725" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
                 <p>
-                  <b>2nd </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=10496" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
+                  <b>2nd </b>Atque  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=17&amp;doc=11726" style="" target="_blank">ita</a>  correptum lacerat iniusta nece</p>
               </td>
               <td>AuxY</td>
               <td>ADV</td>
@@ -723,9 +723,9 @@
               <td>12</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>1st </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
+                  <b>2nd </b>Haec propter illos  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">scripta</a>  est homines fabula Qui fictis causis innocentes opprimunt</p>
               </td>
               <td>PRED</td>
               <td/>
@@ -734,9 +734,9 @@
               <td>13</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">causis</a>  innocentes opprimunt</p>
+                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">causis</a>  innocentes opprimunt</p>
                 <p>
-                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">causis</a>  innocentes opprimunt</p>
+                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">causis</a>  innocentes opprimunt</p>
               </td>
               <td>ADV</td>
               <td>OBJ</td>
@@ -745,9 +745,9 @@
               <td>14</td>
               <td>
                 <p>
-                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=9258" style="" target="_blank">opprimunt</a> </p>
+                  <b>1st </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11725" style="" target="_blank">opprimunt</a> </p>
                 <p>
-                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=10496" style="" target="_blank">opprimunt</a> </p>
+                  <b>2nd </b>Haec propter illos scripta est homines fabula Qui fictis causis innocentes  <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=18&amp;doc=11726" style="" target="_blank">opprimunt</a> </p>
               </td>
               <td>ATR</td>
               <td>OBJ</td>
