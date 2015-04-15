@@ -12,19 +12,19 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   </annotator>
   <annotator>
   </annotator>
-  <sentence id='19' document_id='' subdoc='1:2' span=''>
+<sentence id='19' document_id='' subdoc='1:2' span=''>
     <word id='1' form='Athenae' lemma='Athenae' postag='n-p---fn-' relation='SBJ' ref='1:2' head='3'/>
     <word id='2' form='cum' lemma='cum' postag='c--------' relation='AuxC' ref='1:2' head='12'/>
     <word id='3' form='florerent' lemma='floreo' postag='v3pisa---' relation='ADV' ref='1:2' head='2'/>
     <word id='4' form='aequis' lemma='aequus' postag='a-p---fb-' relation='ATR' ref='1:2' head='5'/>
-    <word id='5' form='legibus' lemma='lex' postag='n-p---fb-' relation='OBJ' ref='1:2' head='3'/>
+    <word id='5' form='legibus' lemma='lex' postag='n-p---fb-' relation='ADV' ref='1:2' head='3'/>
     <word id='6' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='2'/>
     <word id='7' form='Procax' lemma='procax' postag='a-s---fn-' relation='ATR' ref='1:2' head='8'/>
     <word id='8' form='libertas' lemma='libertas' postag='n-s---fn-' relation='SBJ' ref='1:2' head='10'/>
     <word id='9' form='civitatem' lemma='civitas' postag='n-s---fa-' relation='OBJ' ref='1:2' head='10'/>
     <word id='10' form='miscuit' lemma='misceo' postag='v3sria---' relation='PRED_CO' ref='1:2' head='12'/>
     <word id='11' form='Frenum' lemma='frenum' postag='n-s---na-' relation='OBJ' ref='1:2' head='13'/>
-    <word id='12' form='que' lemma='-que' postag='c--------' relation='COORD' ref='1:2' head='0'/>
+    <word id='12' form='que' lemma='que' postag='c--------' relation='COORD' ref='1:2' head='0'/>
     <word id='13' form='solvit' lemma='solvo' postag='v3sria---' relation='PRED_CO' ref='1:2' head='12'/>
     <word id='14' form='pristinum' lemma='pristinus1' postag='a-s---na-' relation='ATR' ref='1:2' head='11'/>
     <word id='15' form='licentia' lemma='licentia' postag='n-s---fn-' relation='SBJ' ref='1:2' head='13'/>
@@ -46,10 +46,10 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='2' form='tristem' lemma='tristis' postag='a-s---fa-' relation='ATR' ref='1:2' head='3'/>
     <word id='3' form='servitutem' lemma='servitus' postag='n-s---fa-' relation='OBJ' ref='1:2' head='4'/>
     <word id='4' form='flerent' lemma='fleo' postag='v3pisa---' relation='ADV_CO' ref='1:2' head='21'/>
-    <word id='5' form='Attici' lemma='Atticus' postag='a-p---mnp' relation='SBJ' ref='1:2' head='4'/>
+    <word id='5' form='Attici' lemma='Atticus' postag='a-p---mnp' relation='SBJ' ref='1:2' head='21'/>
     <word id='6' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='13'/>
     <word id='7' form='(' lemma='(' postag='u--------' relation='AuxG' ref='1:2' head='13'/>
-    <word id='8' form='Non' lemma='non' postag='d--------' relation='AuxZ' ref='1:2' head='32'/>
+    <word id='8' form='Non' lemma='non' postag='d--------' relation='AuxZ' ref='1:2' head='9'/>
     <word id='9' form='quia' lemma='quia' postag='c--------' relation='AuxC' ref='1:2' head='13'/>
     <word id='10' form='crudelis' lemma='crudelis' postag='a-s---mn-' relation='PNOM' ref='1:2' head='32'/>
     <word id='11' form='ille' lemma='ille' postag='p-s---mn-' relation='SBJ' ref='1:2' head='32'/>
@@ -57,7 +57,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='13' form='sed' lemma='sed' postag='c--------' relation='COORD' ref='1:2' head='4'/>
     <word id='14' form='quoniam' lemma='quoniam' postag='c--------' relation='AuxC' ref='1:2' head='13'/>
     <word id='15' form='gravis' lemma='gravis' postag='a-s---mn-' relation='PNOM' ref='1:2' head='31'/>
-    <word id='16' form='Omnino' lemma='omnino' postag='d--------' relation='ADV' ref='1:2' head='31'/>
+    <word id='16' form='Omnino' lemma='omnino' postag='d--------' relation='AuxZ' ref='1:2' head='31'/>
     <word id='17' form='insuetis' lemma='insuesco' postag='v-prppmd_' relation='OBJ' ref='1:2' head='31'/>
     <word id='18' form=')' lemma=')' postag='u--------' relation='AuxG' ref='1:2' head='13'/>
     <word id='19' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='13'/>
@@ -95,7 +95,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='17' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:2' head='0'/>
   </sentence>
   <sentence id='23' document_id='' subdoc='1:2' span=''>
-    <word id='1' form='Pater' lemma='pater' postag='n-s---mn-' relation='SBJ' ref='1:2' head='3'/>
+    <word id='1' form='Pater' lemma='pater' postag='n-s---mn-' relation='SBJ' ref='1:2' head='4'/>
     <word id='2' form='deorum' lemma='deus' postag='n-p---mg-' relation='ATR' ref='1:2' head='1'/>
     <word id='3' form='risit' lemma='rideo' postag='v3sria---' relation='PRED_CO' ref='1:2' head='4'/>
     <word id='4' form='atque' lemma='atque' postag='c--------' relation='COORD' ref='1:2' head='0'/>
@@ -106,10 +106,10 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='9' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='17'/>
     <word id='10' form='missum' lemma='mitto' postag='v-srppnn-' relation='ADV' ref='1:2' head='17'/>
     <word id='11' form='quod' lemma='qui1' postag='p-s---nn-' relation='SBJ' ref='1:2' head='17'/>
-    <word id='12' form='subito' lemma='subeo' postag='v-srppmb-' relation='ATR_CO' ref='1:2' head='16'/>
-    <word id='13' form='vadi' lemma='vadum' postag='n-s---ng-' relation='ATR' ref='1:2' head='14'/>
-    <word id='14' form='Motu' lemma='motus2' postag='n-s---mb-' relation='ADV_CO' ref='1:2' head='12'/>
-    <word id='15' form='sono' lemma='sonus1' postag='n-s---mb-' relation='ADV_CO' ref='1:2' head='12'/>
+    <word id='12' form='subito' lemma='subeo' postag='d--------' relation='ADV' ref='1:2' head='10'/>
+    <word id='13' form='vadi' lemma='vadum' postag='n-s---ng-' relation='ATR' ref='1:2' head='16'/>
+    <word id='14' form='Motu' lemma='motus2' postag='n-s---mb-' relation='ADV_CO' ref='1:2' head='16'/>
+    <word id='15' form='sono' lemma='sonus1' postag='n-s---mb-' relation='ADV_CO' ref='1:2' head='16'/>
     <word id='16' form='que' lemma='que' postag='c--------' relation='COORD' ref='1:2' head='17'/>
     <word id='17' form='terruit' lemma='terreo' postag='v3sria---' relation='ATR' ref='1:2' head='8'/>
     <word id='18' form='pavidum' lemma='pavidus' postag='a-s---na-' relation='ATR' ref='1:2' head='19'/>
@@ -118,15 +118,15 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   </sentence>
   <sentence id='24' document_id='' subdoc='1:2' span=''>
     <word id='1' form='Hoc' lemma='hic' postag='p-s---nn-' relation='SBJ' ref='1:2' head='5'/>
-    <word id='2' form='mersum' lemma='mergo' postag='v-srppnn-' relation='PNOM' ref='1:2' head='5'/>
-    <word id='3' form='limo' lemma='limus2' postag='n-s---mb-' relation='OBJ' ref='1:2' head='2'/>
-    <word id='4' form='cum' lemma='cum' postag='c--------' relation='AuxC' ref='1:2' head='11'/>
+    <word id='2' form='mersum' lemma='mergo' postag='v-srppnn-' relation='ADV' ref='1:2' head='5'/>
+    <word id='3' form='limo' lemma='limus2' postag='n-s---mb-' relation='ADV' ref='1:2' head='2'/>
+    <word id='4' form='cum' lemma='cum' postag='c--------' relation='AuxC' ref='1:2' head='15'/>
     <word id='5' form='iaceret' lemma='jaceo' postag='v3sisa---' relation='ADV' ref='1:2' head='4'/>
     <word id='6' form='diutius' lemma='diu' postag='d-------c' relation='ADV' ref='1:2' head='5'/>
     <word id='7' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='4'/>
     <word id='8' form='Forte' lemma='fors' postag='d--------' relation='ADV' ref='1:2' head='11'/>
-    <word id='9' form='una' lemma='unus' postag='m-----fn-' relation='SBJ' ref='1:2' head='11'/>
-    <word id='10' form='tacite' lemma='tacitus' postag='d--------' relation='ADV' ref='1:2' head='11'/>
+    <word id='9' form='una' lemma='unus' postag='m-----fn-' relation='SBJ' ref='1:2' head='15'/>
+    <word id='10' form='tacite' lemma='taceo' postag='d--------' relation='ADV' ref='1:2' head='11'/>
     <word id='11' form='profert' lemma='profero' postag='v3spia---' relation='PRED_CO' ref='1:2' head='15'/>
     <word id='12' form='e' lemma='ex' postag='r--------' relation='AuxP' ref='1:2' head='11'/>
     <word id='13' form='stagno' lemma='stagnum1' postag='n-s---nb-' relation='OBJ' ref='1:2' head='12'/>
@@ -141,7 +141,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   <sentence id='25' document_id='' subdoc='1:2' span=''>
     <word id='1' form='Illae' lemma='ille' postag='p-p---fn-' relation='SBJ' ref='1:2' head='5'/>
     <word id='2' form='timore' lemma='timor' postag='n-s---mb-' relation='SBJ' ref='1:2' head='3'/>
-    <word id='3' form='posito' lemma='pono' postag='v-srppmb-' relation='ADV' ref='1:2' head='5'/>
+    <word id='3' form='posito' lemma='pono' postag='v-srppmb-' relation='ADV' ref='1:2' head='7'/>
     <word id='4' form='certatim' lemma='certatim' postag='d--------' relation='ADV' ref='1:2' head='5'/>
     <word id='5' form='adnatant' lemma='adnato' postag='v3ppia---' relation='PRED_CO' ref='1:2' head='7'/>
     <word id='6' form='Lignum' lemma='lignum' postag='n-s---na-' relation='OBJ' ref='1:2' head='8'/>
@@ -177,14 +177,14 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   <sentence id='27' document_id='' subdoc='1:2' span=''>
     <word id='1' form='Tum' lemma='tum' postag='d--------' relation='AuxY' ref='1:2' head='2'/>
     <word id='2' form='misit' lemma='mitto' postag='v3sria---' relation='PRED' ref='1:2' head='0'/>
-    <word id='3' form='illis' lemma='ille' postag='p-p---fd-' relation='OBJ' ref='1:2' head='2'/>
+    <word id='3' form='illis' lemma='ille' postag='p-p---fb-' relation='OBJ' ref='1:2' head='2'/>
     <word id='4' form='hydrum' lemma='hydrus1' postag='n-s---ma-' relation='OBJ' ref='1:2' head='2'/>
     <word id='5' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='10'/>
     <word id='6' form='qui' lemma='qui1' postag='p-s---mn-' relation='SBJ' ref='1:2' head='10'/>
     <word id='7' form='dente' lemma='dens' postag='n-s---mb-' relation='ADV' ref='1:2' head='9'/>
     <word id='8' form='aspero' lemma='asper1' postag='a-s---mb-' relation='ATR' ref='1:2' head='7'/>
     <word id='9' form='Corripere' lemma='corripio' postag='v--pna---' relation='OBJ' ref='1:2' head='10'/>
-    <word id='10' form='coepit' lemma='coepio' postag='v3sria---' relation='ATR' ref='1:2' head='4'/>
+    <word id='10' form='coepit' lemma='coepio' postag='v3spia---' relation='ATR' ref='1:2' head='4'/>
     <word id='11' form='singulas' lemma='singuli' postag='m-----fa-' relation='OBJ' ref='1:2' head='9'/>
     <word id='12' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:2' head='0'/>
   </sentence>
@@ -206,7 +206,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='4' form='Mercurio' lemma='Mercurius' postag='n-s---md-' relation='OBJ' ref='1:2' head='3'/>
     <word id='5' form='mandata' lemma='mando1' postag='v-prppna-' relation='OBJ' ref='1:2' head='3'/>
     <word id='6' form='ad' lemma='ad' postag='r--------' relation='AuxP' ref='1:2' head='5'/>
-    <word id='7' form='Iovem' lemma='Juppiter' postag='n-s---ma-' relation='ATR' ref='1:2' head='6'/>
+    <word id='7' form='Iovem' lemma='Juppiter' postag='n-s---ma-' relation='OBJ' ref='1:2' head='6'/>
     <word id='8' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='10'/>
     <word id='9' form='Afflictis' lemma='affligo' postag='v-prppfd-' relation='OBJ' ref='1:2' head='11'/>
     <word id='10' form='ut' lemma='ut' postag='c--------' relation='AuxC' ref='1:2' head='3'/>
@@ -234,15 +234,15 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   </sentence>
   <sentence id='32' document_id='' subdoc='1:2' span=''>
     <word id='1' form='—' lemma='—' postag='u--------' relation='AuxG' ref='1:2' head='11'/>
-    <word id='2' form='Vos' lemma='tu' postag='p-p---mv-' relation='ExD_AP' ref='1:2' head='4'/>
+    <word id='2' form='Vos' lemma='tu' postag='p-p---mv-' relation='ExD_AP' ref='1:2' head='11'/>
     <word id='3' form='quoque' lemma='quoque' postag='d--------' relation='AuxZ' ref='1:2' head='2'/>
     <word id='4' form=',' lemma=',' postag='u--------' relation='APOS' ref='1:2' head='11'/>
     <word id='5' form='o' lemma='o2' postag='e--------' relation='AuxZ' ref='1:2' head='6'/>
-    <word id='6' form='cives' lemma='civis' postag='n-p---mv-' relation='ExD_AP' ref='1:2' head='4'/>
+    <word id='6' form='cives' lemma='civis' postag='n-p---mv-' relation='ExD_AP' ref='1:2' head='11'/>
     <word id='7' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='8'/>
     <word id='8' form='ait' lemma='aio' postag='v3spia---' relation='ExD' ref='1:2' head='11'/>
     <word id='9' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='8'/>
-    <word id='10' form='Hoc' lemma='hic' postag='p-s---na-' relation='OBJ' ref='1:2' head='11'/>
+    <word id='10' form='Hoc' lemma='hic' postag='p-s---nn-' relation='OBJ' ref='1:2' head='11'/>
     <word id='11' form='sustinete' lemma='sustineo' postag='v2ppma---' relation='PRED' ref='1:2' head='0'/>
     <word id='12' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:2' head='14'/>
     <word id='13' form='maius' lemma='magnus1' postag='a-s---nnc' relation='ATR' ref='1:2' head='16'/>
@@ -253,16 +253,16 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   </sentence>
   <sentence id='33' document_id='' subdoc='1:3' span=''>
     <word id='1' form='Ne' lemma='ne1' postag='c--------' relation='AuxC' ref='1:3' head='7'/>
-    <word id='2' form='gloriari' lemma='glorior' postag='v--pnd---' relation='OBJ' ref='1:3' head='3'/>
+    <word id='2' form='gloriari' lemma='glorior' postag='v--pnd---' relation='SBJ' ref='1:3' head='3'/>
     <word id='3' form='libeat' lemma='libet' postag='v3spsa---' relation='ADV_CO' ref='1:3' head='1'/>
     <word id='4' form='alienis' lemma='alienus' postag='a-p---nb-' relation='ATR' ref='1:3' head='5'/>
     <word id='5' form='bonis' lemma='bonum2' postag='n-p---nb-' relation='OBJ' ref='1:3' head='2'/>
     <word id='6' form='Suo' lemma='suus' postag='p-s---mb-' relation='ATR' ref='1:3' head='9'/>
     <word id='7' form='que' lemma='que' postag='c--------' relation='COORD' ref='1:3' head='17'/>
-    <word id='8' form='potius' lemma='potis' postag='d--------' relation='AuxZ' ref='1:3' head='19'/>
+    <word id='8' form='potius' lemma='potis' postag='d--------' relation='ADV' ref='1:3' head='19'/>
     <word id='9' form='habitu' lemma='habitus2' postag='n-s---mb-' relation='ADV' ref='1:3' head='11'/>
     <word id='10' form='vitam' lemma='vita' postag='n-s---fa-' relation='OBJ' ref='1:3' head='11'/>
-    <word id='11' form='degere' lemma='dego' postag='v--pna---' relation='OBJ' ref='1:3' head='19'/>
+    <word id='11' form='degere' lemma='dego' postag='v--pna---' relation='SBJ' ref='1:3' head='19'/>
     <word id='12' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:3' head='7'/>
     <word id='13' form='Aesopus' lemma='Aesopus' postag='n-s---mn-' relation='SBJ' ref='1:3' head='17'/>
     <word id='14' form='nobis' lemma='nos' postag='p-p---md-' relation='OBJ' ref='1:3' head='17'/>
@@ -270,16 +270,17 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='16' form='exemplum' lemma='exemplum' postag='n-s---na-' relation='OBJ' ref='1:3' head='17'/>
     <word id='17' form='prodidit' lemma='prodo' postag='v3sria---' relation='PRED' ref='1:3' head='0'/>
     <word id='18' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:3' head='0'/>
-    <word id='19' insertion_id='0011e' artificial='elliptic' relation='ADV_CO' lemma='libet' postag='v3spsa---' form='libeat' head='7'/>
+    <word id='19' insertion_id='0011e' artificial='elliptic' relation='ADV_CO' lemma='libet' postag='v3spsa---' form='libeat' head='20'/>
+    <word id='20' insertion_id='0007e' artificial='elliptic' relation='AuxC' lemma='ut' postag='c--------' form='ut' head='7'/>
   </sentence>
   <sentence id='34' document_id='' subdoc='1:3' span=''>
-    <word id='1' form='Tumens' lemma='tumeo' postag='v-spp-mn-' relation='ADV' ref='1:3' head='10'/>
+    <word id='1' form='Tumens' lemma='tumeo' postag='v-spp-mn-' relation='ATR' ref='1:3' head='3'/>
     <word id='2' form='inani' lemma='inanis' postag='a-s---fb-' relation='ATR' ref='1:3' head='4'/>
-    <word id='3' form='graculus' lemma='graculus' postag='n-s---mn-' relation='SBJ' ref='1:3' head='10'/>
+    <word id='3' form='graculus' lemma='graculus' postag='n-s---mn-' relation='SBJ' ref='1:3' head='12'/>
     <word id='4' form='superbia' lemma='superbia' postag='n-s---fb-' relation='OBJ' ref='1:3' head='1'/>
-    <word id='5' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:3' head='1'/>
+    <word id='5' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:3' head='12'/>
     <word id='6' form='Pennas' lemma='penna' postag='n-p---fa-' relation='OBJ' ref='1:3' head='10'/>
-    <word id='7' form='pavoni' lemma='pavo1' postag='n-s---md-' relation='ATR' ref='1:3' head='6'/>
+    <word id='7' form='pavoni' lemma='pavo1' postag='n-s---md-' relation='OBJ' ref='1:3' head='9'/>
     <word id='8' form='quae' lemma='qui1' postag='p-p---fn-' relation='SBJ' ref='1:3' head='9'/>
     <word id='9' form='deciderant' lemma='decido1' postag='v3plia---' relation='ATR' ref='1:3' head='6'/>
     <word id='10' form='sustulit' lemma='tollo' postag='v3sria---' relation='PRED_CO' ref='1:3' head='12'/>
@@ -300,7 +301,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='9' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:3' head='0'/>
   </sentence>
   <sentence id='36' document_id='' subdoc='1:3' span=''>
-    <word id='1' form='Illi' lemma='ille' postag='p-p---mn-' relation='SBJ' ref='1:3' head='4'/>
+    <word id='1' form='Illi' lemma='ille' postag='p-p---mn-' relation='SBJ' ref='1:3' head='7'/>
     <word id='2' form='inpudenti' lemma='impudens' postag='a-s---fd-' relation='ATR' ref='1:3' head='5'/>
     <word id='3' form='pennas' lemma='penna' postag='n-p---fa-' relation='OBJ' ref='1:3' head='4'/>
     <word id='4' form='eripiunt' lemma='eripio' postag='v3ppia---' relation='PRED_CO' ref='1:3' head='7'/>
@@ -315,9 +316,9 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='2' form='mulcatus' lemma='mulco' postag='v-srppmn-' relation='ADV' ref='1:3' head='6'/>
     <word id='3' form='graculus' lemma='graculus' postag='n-s---mn-' relation='SBJ' ref='1:3' head='6'/>
     <word id='4' form='Redire' lemma='redeo' postag='v--pna---' relation='OBJ' ref='1:3' head='6'/>
-    <word id='5' form='maerens' lemma='maereo' postag='v-spp-mn-' relation='ATV' ref='1:3' head='3'/>
-    <word id='6' form='coepit' lemma='coepio' postag='v3sria---' relation='PRED' ref='1:3' head='0'/>
-    <word id='7' form='ad' lemma='ad' postag='r--------' relation='AuxP' ref='1:3' head='6'/>
+    <word id='5' form='maerens' lemma='maereo' postag='v-spp-mn-' relation='ADV' ref='1:3' head='4'/>
+    <word id='6' form='coepit' lemma='coepio' postag='v3spia---' relation='PRED' ref='1:3' head='0'/>
+    <word id='7' form='ad' lemma='ad' postag='r--------' relation='AuxP' ref='1:3' head='4'/>
     <word id='8' form='proprium' lemma='proprius' postag='a-s---na-' relation='ATR' ref='1:3' head='9'/>
     <word id='9' form='genus' lemma='genus1' postag='n-s---na-' relation='OBJ' ref='1:3' head='7'/>
     <word id='10' form=';' lemma=';' postag='u--------' relation='AuxK' ref='1:3' head='6'/>
@@ -335,15 +336,40 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='1' form='Tum' lemma='tum' postag='d--------' relation='AuxY' ref='1:3' head='10'/>
     <word id='2' form='quidam' lemma='quidam' postag='p-s---mn-' relation='SBJ' ref='1:3' head='10'/>
     <word id='3' form='ex' lemma='ex' postag='r--------' relation='AuxP' ref='1:3' head='2'/>
-    <word id='4' form='illis' lemma='ille' postag='p-p---mb-' relation='ATR' ref='1:3' head='3'/>
+    <word id='4' form='illis' lemma='ille' postag='p-p---fb-' relation='ATR' ref='1:3' head='3'/>
     <word id='5' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:3' head='6'/>
     <word id='6' form='quos' lemma='qui1' postag='p-p---ma-' relation='OBJ' ref='1:3' head='8'/>
     <word id='7' form='prius' lemma='prior' postag='d--------' relation='ADV' ref='1:3' head='8'/>
     <word id='8' form='despexerat' lemma='despicio' postag='v3slia---' relation='ATR' ref='1:3' head='4'/>
     <word id='9' form=':' lemma=':' postag='u--------' relation='AuxK' ref='1:3' head='0'/>
-    <word id='10' insertion_id='0008e' artificial='elliptic' relation='PRED' lemma='inquam' postag='v3sria---' form='inquit' head='0'/>
+    <word id='10' insertion_id='0008e' artificial='elliptic' relation='PRED' lemma='inquam' postag='v3spia---' form='inquit' head='0'/>
   </sentence>
-
+  <sentence id='40' document_id='' subdoc='1:3' span=''>
+    <word id='1' form='Contentus' lemma='contineo' postag='v-srppmn-' relation='ADV_CO' ref='1:3' head='6'/>
+    <word id='2' form='nostris' lemma='noster' postag='p-p---fb-' relation='ATR' ref='1:3' head='5'/>
+    <word id='3' form='si' lemma='si' postag='c--------' relation='AuxC' ref='1:3' head='18'/>
+    <word id='4' form='fuisses' lemma='sum1' postag='v2slsa---' relation='AuxV' ref='1:3' head='1'/>
+    <word id='5' form='sedibus' lemma='sedes' postag='n-p---fb-' relation='OBJ' ref='1:3' head='1'/>
+    <word id='6' form='Et' lemma='et' postag='c--------' relation='COORD' ref='1:3' head='3'/>
+    <word id='7' form='quod' lemma='qui1' postag='p-s---nn-' relation='OBJ' ref='1:3' head='9'/>
+    <word id='8' form='natura' lemma='natura' postag='n-s---fn-' relation='SBJ' ref='1:3' head='9'/>
+    <word id='9' form='dederat' lemma='do' postag='v3slia---' relation='OBJ' ref='1:3' head='11'/>
+    <word id='10' form='voluisses' lemma='volo1' postag='v2slsa---' relation='ADV_CO' ref='1:3' head='6'/>
+    <word id='11' form='pati' lemma='patior' postag='v--pnd---' relation='OBJ' ref='1:3' head='10'/>
+    <word id='12' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:3' head='3'/>
+    <word id='13' form='Nec' lemma='neque' postag='c--------' relation='AuxY' ref='1:3' head='15'/>
+    <word id='14' form='illam' lemma='ille' postag='p-s---fa-' relation='ATR' ref='1:3' head='17'/>
+    <word id='15' form='expertus' lemma='experior' postag='v-srpdmn_' relation='PRED_CO' ref='1:3' head='18'/>
+    <word id='16' form='esses' lemma='sum1' postag='v2sisa---' relation='AuxV' ref='1:3' head='15'/>
+    <word id='17' form='contumeliam' lemma='contumelia' postag='n-s---fa-' relation='OBJ' ref='1:3' head='15'/>
+    <word id='18' form='Nec' lemma='neque' postag='c--------' relation='COORD' ref='1:3' head='0'/>
+    <word id='19' form='hanc' lemma='hic' postag='p-s---fa-' relation='ATR' ref='1:3' head='20'/>
+    <word id='20' form='repulsam' lemma='repulsa' postag='n-s---fa-' relation='OBJ' ref='1:3' head='22'/>
+    <word id='21' form='tua' lemma='tuus' postag='p-p---na-' relation='ATR' ref='1:3' head='23'/>
+    <word id='22' form='sentiret' lemma='sentio' postag='v3sisa---' relation='PRED_CO' ref='1:3' head='18'/>
+    <word id='23' form='calamitas' lemma='calamitas' postag='n-s---fn-' relation='SBJ' ref='1:3' head='22'/>
+    <word id='24' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:3' head='0'/>
+  </sentence>
   <sentence id='41' document_id='' subdoc='1:4' span=''>
     <word id='1' form='Amittit' lemma='amitto' postag='v3spia---' relation='PRED' ref='1:4' head='0'/>
     <word id='2' form='merito' lemma='mereo' postag='d--------' relation='ADV' ref='1:4' head='1'/>
@@ -354,14 +380,14 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='7' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:4' head='0'/>
   </sentence>
   <sentence id='42' document_id='' subdoc='1:4' span=''>
-    <word id='1' form='Canis' lemma='canis1' postag='n-s---mn-' relation='SBJ' ref='1:4' head='12'/>
+    <word id='1' form='Canis' lemma='canis1' postag='n-s---mn-' relation='SBJ' ref='1:4' head='17'/>
     <word id='2' form='per' lemma='per' postag='r--------' relation='AuxP' ref='1:4' head='7'/>
-    <word id='3' form='flumen' lemma='flumen' postag='n-s---na-' relation='OBJ' ref='1:4' head='2'/>
+    <word id='3' form='flumen' lemma='flumen' postag='n-s---na-' relation='ADV' ref='1:4' head='2'/>
     <word id='4' form='carnem' lemma='caro2' postag='n-s---fa-' relation='OBJ' ref='1:4' head='6'/>
     <word id='5' form='cum' lemma='cum' postag='c--------' relation='AuxC' ref='1:4' head='12'/>
     <word id='6' form='ferret' lemma='fero' postag='v3sisa---' relation='ADV' ref='1:4' head='5'/>
     <word id='7' form='natans' lemma='nato' postag='v-spp-mn-' relation='ADV' ref='1:4' head='6'/>
-    <word id='8' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:4' head='7'/>
+    <word id='8' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:4' head='5'/>
     <word id='9' form='Lympharum' lemma='lympha' postag='n-p---fg-' relation='ATR' ref='1:4' head='11'/>
     <word id='10' form='in' lemma='in' postag='r--------' relation='AuxP' ref='1:4' head='12'/>
     <word id='11' form='speculo' lemma='speculum' postag='n-s---nb-' relation='ADV' ref='1:4' head='10'/>
@@ -375,7 +401,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='19' form='ab' lemma='ab' postag='r--------' relation='AuxP' ref='1:4' head='21'/>
     <word id='20' form='altero' lemma='alter' postag='a-s---mb-' relation='OBJ' ref='1:4' head='19'/>
     <word id='21' form='ferri' lemma='fero' postag='v--pnp---' relation='OBJ' ref='1:4' head='22'/>
-    <word id='22' form='putans' lemma='puto' postag='v-spp-mn-' relation='ADV' ref='1:4' head='24'/>
+    <word id='22' form='putans' lemma='puto' postag='v-spp-mn-' relation='ADV' ref='1:4' head='23'/>
     <word id='23' form='Eripere' lemma='eripio' postag='v--pna---' relation='OBJ' ref='1:4' head='24'/>
     <word id='24' form='voluit' lemma='volo1' postag='v3sria---' relation='PRED_CO' ref='1:4' head='17'/>
     <word id='25' form=';' lemma=';' postag='u--------' relation='AuxK' ref='1:4' head='0'/>
@@ -387,7 +413,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='4' form='Et' lemma='et' postag='c--------' relation='AuxY' ref='1:4' head='11'/>
     <word id='5' form='quem' lemma='qui1' postag='p-s---ma-' relation='OBJ' ref='1:4' head='6'/>
     <word id='6' form='tenebat' lemma='teneo' postag='v3siia---' relation='ATR' ref='1:4' head='9'/>
-    <word id='7' form='ore' lemma='os1' postag='n-s---nb-' relation='OBJ' ref='1:4' head='8'/>
+    <word id='7' form='ore' lemma='os1' postag='n-s---nb-' relation='ADV' ref='1:4' head='6'/>
     <word id='8' form='dimisit' lemma='dimitto' postag='v3sria---' relation='PRED_CO' ref='1:4' head='11'/>
     <word id='9' form='cibum' lemma='cibus' postag='n-s---ma-' relation='OBJ' ref='1:4' head='8'/>
     <word id='10' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:4' head='8'/>
@@ -413,7 +439,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='1' form='Testatur' lemma='testor' postag='v3spid---' relation='PRED' ref='1:5' head='0'/>
     <word id='2' form='haec' lemma='hic' postag='p-s---fn-' relation='ATR' ref='1:5' head='3'/>
     <word id='3' form='fabella' lemma='fabella' postag='n-s---fn-' relation='SBJ' ref='1:5' head='1'/>
-    <word id='4' form='propositum' lemma='propono' postag='n-srppna-' relation='OBJ' ref='1:5' head='1'/>
+    <word id='4' form='propositum' lemma='propono' postag='n-s---na-' relation='OBJ' ref='1:5' head='1'/>
     <word id='5' form='meum' lemma='meus' postag='p-s---na-' relation='ATR' ref='1:5' head='4'/>
     <word id='6' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:5' head='0'/>
   </sentence>
@@ -424,7 +450,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='4' form='et' lemma='et' postag='c--------' relation='COORD' ref='1:5' head='9'/>
     <word id='5' form='patiens' lemma='patior' postag='v-spp-mn-' relation='ATR' ref='1:5' head='6'/>
     <word id='6' form='ovis' lemma='ovis' postag='n-s---mn-' relation='SBJ_CO' ref='1:5' head='4'/>
-    <word id='7' form='iniuriae' lemma='injuria' postag='n-s---fg-' relation='ATR' ref='1:5' head='5'/>
+    <word id='7' form='iniuriae' lemma='injuria' postag='n-s---fg-' relation='OBJ' ref='1:5' head='5'/>
     <word id='8' form='Socii' lemma='socius' postag='a-p---mn-' relation='PNOM' ref='1:5' head='9'/>
     <word id='9' form='fuere' lemma='sum1' postag='v3pria---' relation='PRED' ref='1:5' head='0'/>
     <word id='10' form='cum' lemma='cum' postag='r--------' relation='AuxP' ref='1:5' head='8'/>
@@ -453,7 +479,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   </sentence>
   <sentence id='48' document_id='' subdoc='1:5' span=''>
     <word id='1' form='Ego' lemma='ego' postag='p-s---mn-' relation='SBJ' ref='1:5' head='3'/>
-    <word id='2' form='primam' lemma='primus' postag='m-s---fa-' relation='ATR' ref='1:5' head='10'/>
+    <word id='2' form='primam' lemma='primus' postag='m-s---fa-' relation='OBJ' ref='1:5' head='3'/>
     <word id='3' form='tollo' lemma='tollo' postag='v1spia---' relation='PRED' ref='1:5' head='0'/>
     <word id='4' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:5' head='7'/>
     <word id='5' form='†' lemma='†' postag='u--------' relation='ExD' ref='1:5' head='7'/>
@@ -461,10 +487,9 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='7' form='quia' lemma='quia' postag='c--------' relation='AuxC' ref='1:5' head='3'/>
     <word id='8' form='leo' lemma='leo2' postag='n-s---mn-' relation='PNOM' ref='1:5' head='6'/>
     <word id='9' form=';' lemma=';' postag='u--------' relation='AuxK' ref='1:5' head='0'/>
-    <word id='10' insertion_id='0001e' artificial='elliptic' relation='OBJ' lemma='pars' postag='n-s---fa-' form='partem' head='3'/>
   </sentence>
   <sentence id='49' document_id='' subdoc='1:5' span=''>
-    <word id='1' form='Secundam' lemma='secundus1' postag='m-s---fa-' relation='ATR' ref='1:5' head='10'/>
+    <word id='1' form='Secundam' lemma='secundus1' postag='m-s---fa-' relation='OBJ' ref='1:5' head='7'/>
     <word id='2' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:5' head='3'/>
     <word id='3' form='quia' lemma='quia' postag='c--------' relation='AuxC' ref='1:5' head='7'/>
     <word id='4' form='sum' lemma='sum1' postag='v1spia---' relation='ADV' ref='1:5' head='3'/>
@@ -473,7 +498,6 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='7' form='tribuetis' lemma='tribuo' postag='v2pfia---' relation='PRED' ref='1:5' head='0'/>
     <word id='8' form='mihi' lemma='ego' postag='p-s---md-' relation='OBJ' ref='1:5' head='7'/>
     <word id='9' form=';' lemma=';' postag='u--------' relation='AuxK' ref='1:5' head='0'/>
-    <word id='10' insertion_id='0000e' artificial='elliptic' relation='OBJ' lemma='pars' postag='n-s---fa-' form='partem' head='7'/>
   </sentence>
   <sentence id='50' document_id='' subdoc='1:5' span=''>
     <word id='1' form='Tum' lemma='tum' postag='d--------' relation='AuxY' ref='1:5' head='8'/>
@@ -484,19 +508,17 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='6' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:5' head='3'/>
     <word id='7' form='me' lemma='ego' postag='p-s---ma-' relation='OBJ' ref='1:5' head='8'/>
     <word id='8' form='sequetur' lemma='sequor' postag='v3sfid---' relation='PRED' ref='1:5' head='0'/>
-    <word id='9' form='tertia' lemma='tertius' postag='m-s---fn-' relation='ATR' ref='1:5' head='11'/>
+    <word id='9' form='tertia' lemma='tertius' postag='m-s---fn-' relation='SBJ' ref='1:5' head='8'/>
     <word id='10' form=';' lemma=';' postag='u--------' relation='AuxK' ref='1:5' head='0'/>
-    <word id='11' insertion_id='0008e' artificial='elliptic' relation='SBJ' lemma='pars' postag='n-s---fn-' form='pars' head='8'/>
   </sentence>
   <sentence id='51' document_id='' subdoc='1:5' span=''>
     <word id='1' form='Malo' lemma='malus1' postag='a-s---nb-' relation='ADV' ref='1:5' head='2'/>
     <word id='2' form='afficietur' lemma='afficio' postag='v3sfip---' relation='PRED' ref='1:5' head='0'/>
     <word id='3' form='si' lemma='si' postag='c--------' relation='AuxC' ref='1:5' head='2'/>
     <word id='4' form='quis' lemma='quis2' postag='p-s---mn-' relation='SBJ' ref='1:5' head='6'/>
-    <word id='5' form='quartam' lemma='quartus' postag='m-s---fa-' relation='ATR' ref='1:5' head='8'/>
+    <word id='5' form='quartam' lemma='quartus' postag='m-s---fa-' relation='OBJ' ref='1:5' head='6'/>
     <word id='6' form='tetigerit' lemma='tango' postag='v3stia---' relation='ADV' ref='1:5' head='3'/>
     <word id='7' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:5' head='0'/>
-    <word id='8' insertion_id='0004e' artificial='elliptic' relation='OBJ' lemma='pars' postag='n-s---fa-' form='partem' head='6'/>
   </sentence>
   <sentence id='52' document_id='' subdoc='1:5' span=''>
     <word id='1' form='Sic' lemma='sic' postag='d--------' relation='AuxY' ref='1:5' head='6'/>
@@ -513,7 +535,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='3' form='celebres' lemma='celeber' postag='a-p---fa-' relation='ATR' ref='1:6' head='5'/>
     <word id='4' form='vidit' lemma='video' postag='v3sria---' relation='PRED_CO' ref='1:6' head='7'/>
     <word id='5' form='nuptias' lemma='nuptiae' postag='n-p---fa-' relation='OBJ' ref='1:6' head='4'/>
-    <word id='6' form='Aesopus' lemma='Aesopus' postag='n-s---mn-' relation='SBJ' ref='1:6' head='4'/>
+    <word id='6' form='Aesopus' lemma='Aesopus' postag='n-s---mn-' relation='SBJ' ref='1:6' head='7'/>
     <word id='7' form='et' lemma='et' postag='c--------' relation='COORD' ref='1:6' head='0'/>
     <word id='8' form='continuo' lemma='continuo' postag='d--------' relation='ADV' ref='1:6' head='10'/>
     <word id='9' form='narrare' lemma='narro' postag='v--pna---' relation='OBJ' ref='1:6' head='10'/>
@@ -532,7 +554,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='9' form='ranae' lemma='rana' postag='n-p---fn-' relation='SBJ' ref='1:6' head='10'/>
     <word id='10' form='sustulere' lemma='tollo' postag='v3pria---' relation='PRED' ref='1:6' head='0'/>
     <word id='11' form='ad' lemma='ad' postag='r--------' relation='AuxP' ref='1:6' head='10'/>
-    <word id='12' form='sidera' lemma='sidus' postag='n-p---na-' relation='OBJ' ref='1:6' head='11'/>
+    <word id='12' form='sidera' lemma='sidus' postag='n-p---na-' relation='ADV' ref='1:6' head='11'/>
     <word id='13' form='.' lemma='.' postag='u--------' relation='AuxK' ref='1:6' head='0'/>
   </sentence>
   <sentence id='55' document_id='' subdoc='1:6' span=''>
@@ -553,7 +575,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='6' insertion_id='0004e' artificial='elliptic' relation='PRED' lemma='inquam' postag='v3spia---' form='inquit' head='0'/>
   </sentence>
   <sentence id='57' document_id='' subdoc='1:6' span=''>
-    <word id='1' form='Nunc' lemma='nunc' postag='d--------' relation='AuxY' ref='1:6' head='8'/>
+    <word id='1' form='Nunc' lemma='nunc' postag='d--------' relation='ADV' ref='1:6' head='8'/>
     <word id='2' form='inquit' lemma='inquam' postag='v3spia---' relation='ExD' ref='1:6' head='8'/>
     <word id='3' form='omnes' lemma='omnis' postag='a-p---ma-' relation='ATR' ref='1:6' head='6'/>
     <word id='4' form='unus' lemma='unus' postag='m-----mn-' relation='AtvV' ref='1:6' head='5'/>
@@ -590,7 +612,7 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
     <word id='2' form='quanta' lemma='quantus' postag='a-s---fn-' relation='ATR' ref='1:7' head='3'/>
     <word id='3' form='species' lemma='species' postag='n-s---fn-' relation='SBJ' ref='1:7' head='9'/>
     <word id='4' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:7' head='5'/>
-    <word id='5' form='inquit' lemma='inquam' postag='v3sria---' relation='ExD' ref='1:7' head='9'/>
+    <word id='5' form='inquit' lemma='inquam' postag='v3spia---' relation='ExD' ref='1:7' head='9'/>
     <word id='6' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:7' head='5'/>
     <word id='7' form='cerebrum' lemma='cerebrum' postag='n-s---na-' relation='OBJ' ref='1:7' head='9'/>
     <word id='8' form='non' lemma='non' postag='d--------' relation='AuxZ' ref='1:7' head='9'/>
@@ -599,15 +621,15 @@ https:&#x2F;&#x2F;github.com&#x2F;PerseusDL&#x2F;canonical&#x2F;blob&#x2F;master
   </sentence>
   <sentence id='61' document_id='' subdoc='1:7' span=''>
     <word id='1' form='Hoc' lemma='hic' postag='p-s---nn-' relation='ATR' ref='1:7' head='3'/>
-    <word id='2' form='illis' lemma='ille' postag='p-p---md-' relation='OBJ' ref='1:7' head='4'/>
-    <word id='3' form='dictum' lemma='dico2' postag='n-s-s-nn-' relation='SBJ' ref='1:7' head='4'/>
+    <word id='2' form='illis' lemma='ille' postag='p-p---fb-' relation='OBJ' ref='1:7' head='4'/>
+    <word id='3' form='dictum' lemma='dico2' postag='v-srppnn-' relation='SBJ' ref='1:7' head='4'/>
     <word id='4' form='est' lemma='sum1' postag='v3spia---' relation='PRED' ref='1:7' head='0'/>
     <word id='5' form=',' lemma=',' postag='u--------' relation='AuxX' ref='1:7' head='11'/>
-    <word id='6' form='quibus' lemma='qui1' postag='p-p---md-' relation='OBJ' ref='1:7' head='11'/>
+    <word id='6' form='quibus' lemma='qui1' postag='p-p---md-' relation='OBJ' ref='1:7' head='12'/>
     <word id='7' form='honorem' lemma='honor' postag='n-s---ma-' relation='OBJ_CO' ref='1:7' head='8'/>
     <word id='8' form='et' lemma='et' postag='c--------' relation='COORD' ref='1:7' head='11'/>
     <word id='9' form='gloriam' lemma='gloria' postag='n-s---fa-' relation='OBJ_CO' ref='1:7' head='8'/>
-    <word id='10' form='Fortuna' lemma='fortuna' postag='n-s---fn-' relation='SBJ' ref='1:7' head='11'/>
+    <word id='10' form='Fortuna' lemma='fortuna' postag='n-s---fn-' relation='SBJ' ref='1:7' head='12'/>
     <word id='11' form='tribuit' lemma='tribuo' postag='v3sria---' relation='ATR_CO' ref='1:7' head='12'/>
     <word id='12' form=',' lemma=',' postag='u--------' relation='COORD' ref='1:7' head='2'/>
     <word id='13' form='sensum' lemma='sensus2' postag='n-s---ma-' relation='OBJ' ref='1:7' head='15'/>
