@@ -10,9 +10,10 @@
     After comparison, annotators are invited to change their annotations where necessary (i.e., where a clear error is detected): 
     for this reason a certain value for a word is now the corrected one in the linked online sentence, 
     which always shows the most recent annotation for each value.</p>
+    
     <div>
       <div>
-        <h2>1. Morphology</h2>
+        <h2>1. Morphology </h2>
         <table>
           <h3>Metrics</h3>
           <thead>
