@@ -12,13 +12,13 @@
     which always shows the most recent annotation for each value.</p>
     <div>
       <div>
-        <h2>1. Morphology </h2>
+        <h2>1. Morphology</h2>
         <table>
           <h3>Metrics</h3>
           <thead>
             <tr>
               <th>Word number</th>
-              <th>Words with equal value</th>
+              <th>Words with equal value </th>
               <th>Words with unequal value</th>
               <th>Percentage of agreement</th>
               <th>Cohen's kappa</th>
