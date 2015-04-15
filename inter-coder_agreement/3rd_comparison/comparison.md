@@ -4,8 +4,7 @@
   </head>
   <body>
     <h1>Inter-coder Agreement</h1>
-        <p>This is the inter-annotator agreement calculated on 31 March 2015 (from sentence 19 to 61 of Phaedrus' fables: 
-        sentence with @id="40" was excluded because its tokenization was mistakenly modified by one annotator). 
+        <p>This is the inter-annotator agreement calculated on 31 March 2015 (from sentence 19 to 61 of Phaedrus' fables). 
     The document contains the sentences the annotators disagree on with their values and links to Arethusa, 
     the online tool used to perform annotation, so that values of disagreement can be discussed in a user-friendly interface. 
     After comparison, annotators are invited to change their annotations where necessary (i.e., where a clear error is detected): 
