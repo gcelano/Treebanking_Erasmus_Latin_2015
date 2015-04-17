@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Inter-coder Agreement</h1>
-        <p>This is the inter-annotator agreement calculated on 16 April 2015 (from sentence 61 to 18 of Phaedrus' fables). 
+        <p>This is the inter-annotator agreement calculated on 16 April 2015 (from sentence 62 to 150 of Phaedrus' fables). 
     The document contains the sentences the annotators disagree on with their values and links to Arethusa, 
     the online tool used to perform annotation, so that values of disagreement can be discussed in a user-friendly interface. 
     After comparison, annotators are invited to change their annotations where necessary (i.e., where a clear error is detected): 
