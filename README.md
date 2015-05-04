@@ -9,4 +9,4 @@ This respository documents the treebanking activity for the ERASMUS students
 * guidelines folder containing the guidelines and addenda 
 * Inter-coder agreement folder, which documents in detail the files compared
 
-
+These data are under license CC BY-NC-SA 
